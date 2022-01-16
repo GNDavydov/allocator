@@ -22,7 +22,12 @@ void deallocate(pointer ptr, size_type count);
 
 ## LINKS
 https://en.cppreference.com/w/cpp/memory/allocator
+
 https://docs.microsoft.com/ru-ru/cpp/standard-library/allocator-class?view=msvc-170
+
 https://habr.com/ru/post/505632/
+
 https://habr.com/ru/post/274827/
+
 https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BB%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D1%80
+
